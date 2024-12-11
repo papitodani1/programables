@@ -1,5 +1,3 @@
-# Proyecto: Sistema de monitoreo ambiental con ESP32
-# Autor: [Tu Nombre]
 # Descripción:
 # Este programa utiliza un ESP32 para recopilar datos de sensores ambientales, mostrar los datos en una pantalla TFT y enviarlos a un broker MQTT y Firebase.
 # Los sensores utilizados son:
